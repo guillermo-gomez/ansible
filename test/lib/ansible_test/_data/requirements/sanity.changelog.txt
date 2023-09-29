@@ -1,2 +1,3 @@
 # changelog build requires python 3.6+
 antsibull-changelog ; python_version >= '3.6'
+pydantic>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
