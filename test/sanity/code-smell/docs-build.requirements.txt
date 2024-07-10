@@ -4,3 +4,4 @@ sphinx
 sphinx-notfound-page
 straight.plugin
 antsibull
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
